@@ -31,6 +31,7 @@ a   {
   margin: auto;
   background-color:blanchedalmond;
   padding: 30px;
+  border: 5px;
 }
 #About  {
   font-size: 15px;
@@ -58,6 +59,7 @@ a   {
   margin: auto;
   background-color: rgb(109, 109, 109);
   padding: 10px;
+  border: 5px;
 }
 .spotify {
   float:right;
